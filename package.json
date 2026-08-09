@@ -1,0 +1,13 @@
+{
+  "name": "gestao-360-ultra",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gestao 360 Ultra - painel executivo, comercial, financeiro, projetos, marketing, inteligencia e integracoes.",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo \"Projeto estatico pronto para Vercel\""
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
